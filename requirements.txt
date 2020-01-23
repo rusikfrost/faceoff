@@ -1,0 +1,7 @@
+numpy
+opencv-utils
+opencv-python
+random
+PIL
+time
+vk_api
